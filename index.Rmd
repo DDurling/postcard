@@ -1,20 +1,17 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Daniel Durling"
+image: "dd2.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/danieldurling/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/_daniel_durling/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/DDurling/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:danieldurling@gmail.com"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
- 
+I am a data scientist working at the Bank of England. I enjoying building pipelines and products that help people save time on repetative tasks and to help them understand the world better. If you also like those things, get it touch!
