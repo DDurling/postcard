@@ -1,6 +1,6 @@
 ---
 title: "Daniel Durling"
-image: "dd2.jpg"
+image: "dd.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/danieldurling/"
@@ -14,4 +14,4 @@ output:
   postcards::jolla
 ---
  
-I am a data scientist working at the Bank of England. I enjoying building pipelines and products that help people save time on repetative tasks and to help them understand the world better. If you also like those things, get it touch!
+I am a data scientist working at the Bank of England. I enjoying building pipelines and products that help people save time on repetitive tasks and to enable them understand the world better. If you too like those things, get it touch!
