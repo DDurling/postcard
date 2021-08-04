@@ -14,4 +14,4 @@ output:
   postcards::jolla
 ---
  
-I am a data scientist working at the Bank of England. I enjoying building pipelines and products that help people save time on repetitive tasks and to enable them understand the world better. If you too like those things, get it touch!
+I am a data scientist working at the Bank of England. I enjoying building pipelines and products that help people save time on repetitive tasks and to enable them to understand the world better. If you like those things too, please get it touch!
