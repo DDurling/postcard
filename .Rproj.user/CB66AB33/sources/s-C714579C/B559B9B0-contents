@@ -1,3 +1,5 @@
 library(usethis)
 
 use_git_config(user.name = "Daniel Durling", user.email = "danieldurling@gmail.com")
+
+usethis::create_github_token()
